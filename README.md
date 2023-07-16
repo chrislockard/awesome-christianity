@@ -1,15 +1,18 @@
 # awesome-christianity
 A collection of awesome Christian resources to help you on your faith's journey
 
-## Social Media
+## Media
 
-### Twitter
+### Social Media
+
+#### Twitter
 
 * @father_rmv
 * @MattWalshBlog
 * @ArchbpVigano
+* @massoftheages
 
-## Web
+### Web
 
 * [My Catholic Homepage with Catholic News from around the web](http://www.mycatholic.com)
 * [Eternal Word Television Network - A major Catholic media conglomerate founded in 1981](https://www.ewtn.com)
@@ -18,12 +21,19 @@ A collection of awesome Christian resources to help you on your faith's journey
 * [English news from the Vatican](https://www.vaticannews.va/en.html)
 * [English homepage of the Vatican](https://www.vatican.va/content/vatican/en.html)
 
-## Traditional Latin Mass
+#### Traditional Latin Mass
 
 * [Discover the Traditional Latin (or Tridentine) Mass](https://www.youtube.com/watch?v=xdbwNMYKhw0)
 
-## Donations
+### Music
+
+Music is inherently subjective, but here are some playlists to get started with:
+
+* [Hard Rock Christian Playlist - Spotify](https://open.spotify.com/playlist/37i9dQZF1EQqZgBURAEzWH?si=XaTvxHDiRtyIzzjQg9vTPw)
+
+### Donations
 
 These resources promote Christianity in various ways and may be worthy of donation.
 
 * [Donation page to support LatinMass.com](https://www.latinmass.com/donate)
+
