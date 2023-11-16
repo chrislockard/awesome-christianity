@@ -8,6 +8,7 @@ A collection of awesome Christian resources to help you on your faith's journey
 * @father_rmv
 * @MattWalshBlog
 * @ArchbpVigano
+* @JoshuaTCharles
 
 ## Web
 
