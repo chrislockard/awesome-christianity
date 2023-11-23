@@ -19,6 +19,7 @@ A collection of awesome Christian resources to help you on your faith's journey
 * [Find your bishop and dioscese](https://www.usccb.org/find-a-bishop-and-diocese)
 * [English news from the Vatican](https://www.vaticannews.va/en.html)
 * [English homepage of the Vatican](https://www.vatican.va/content/vatican/en.html)
+* [Becoming Catholic: How a lifelong Protestant embraced Catholicism](https://www.joshuatcharles.com/becoming-catholic-series)
 
 ## Traditional Latin Mass
 
