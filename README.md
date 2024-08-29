@@ -20,6 +20,14 @@ A collection of awesome Christian resources to help you on your faith's journey
 * [English news from the Vatican](https://www.vaticannews.va/en.html)
 * [English homepage of the Vatican](https://www.vatican.va/content/vatican/en.html)
 * [Becoming Catholic: How a lifelong Protestant embraced Catholicism](https://www.joshuatcharles.com/becoming-catholic-series)
+* [Fr. Mike Schmitz on
+  YouTube](https://www.youtube.com/playlist?list=PLeXS0cAkuTPpJ6j3eH59WudJhJ4q1tpwH)
+
+## Podcasts
+
+- [The Bible in a Year with Fr. Mike Schmitz](https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321 "The Bible in a Year with Fr. Mike Schmitz")
+- [The Catholic Catechism in a Year with Fr. Mike Schmitz](https://podcasts.apple.com/us/podcast/the-catechism-in-a-year-with-fr-mike-schmitz/id1648949780 "The Catholic Catechism in a Year with Fr. Mike Schmitz")
+
 
 ## Traditional Latin Mass
 
