@@ -1,4 +1,5 @@
 # awesome-christianity
+
 A collection of awesome Christian resources to help you on your faith's journey
 
 ## Social Media
@@ -6,10 +7,11 @@ A collection of awesome Christian resources to help you on your faith's journey
 ### Twitter
 
 * @father_rmv
-* @MattWalshBlog
 * @ArchbpVigano
 * @JoshuaTCharles
 * @massoftheages
+* @BishopBarron
+* @LizzieReezay
 
 ## Web
 
@@ -28,7 +30,6 @@ A collection of awesome Christian resources to help you on your faith's journey
 - [The Bible in a Year with Fr. Mike Schmitz](https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321 "The Bible in a Year with Fr. Mike Schmitz")
 - [The Catholic Catechism in a Year with Fr. Mike Schmitz](https://podcasts.apple.com/us/podcast/the-catechism-in-a-year-with-fr-mike-schmitz/id1648949780 "The Catholic Catechism in a Year with Fr. Mike Schmitz")
 
-
 ## Traditional Latin Mass
 
 * [Discover the Traditional Latin (or Tridentine) Mass](https://www.youtube.com/watch?v=xdbwNMYKhw0)
@@ -37,4 +38,5 @@ A collection of awesome Christian resources to help you on your faith's journey
 
 These resources promote Christianity in various ways and may be worthy of donation.
 
+* [Catholic Charities USA](https://www.catholiccharitiesusa.org/about-us/find-a-local-agency/)
 * [Donation page to support LatinMass.com](https://www.latinmass.com/donate)
